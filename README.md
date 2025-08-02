@@ -3,7 +3,7 @@
 ## some of the stuff I am working on
 
 # Main projects
-Grubbly food project
+## Grubbly food project
 # Side projects
 
 # Other
